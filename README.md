@@ -18,7 +18,7 @@ This script allows you to log in to Facebook using your credentials stored in a 
 2. Navigate to the project directory:
 
     ```bash
-    cd facebook-post-crawler
+    cd Crawl-Data-Fb
     ```
 
 3. Install the required Python dependencies:
