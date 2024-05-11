@@ -40,7 +40,7 @@ This script allows you to log in to Facebook using your credentials stored in a 
 2. Run the script:
 
     ```bash
-    python facebook_post_crawler.py
+    login_fb.py
     ```
 
 3. The script will log in to Facebook using the provided credentials and start crawling the posts on your timeline. The posts will be saved to a file named `posts.txt` in the project directory.
