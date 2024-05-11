@@ -5,14 +5,14 @@ This script allows you to log in to Facebook using your credentials stored in a 
 ## Prerequisites
 
 - Python 3.x installed on your system.
-- Chrome WebDriver installed. You can download it from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and ensure it's in your PATH.
+- Chrome WebDriver installed. You can download it from [here](https://chromedriver.chromium.org/downloads) and ensure it's in your PATH.
 
 ## Installation
 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/facebook-post-crawler.git
+    git clone https://github.com/Boobyyy03/Crawl-Data-Fb.git
     ```
 
 2. Navigate to the project directory:
